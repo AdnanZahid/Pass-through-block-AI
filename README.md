@@ -2,9 +2,9 @@
 
 This is a simple AI that causes a ball to pass through a block.
 
-*How to run:*
+**How to run:**
 
-python AI.py
+```python AI.py```
 
 Written entirely in Python, it was a good project to practice python and get your hands clean.
 
